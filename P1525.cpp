@@ -23,6 +23,7 @@ private:
 		return one.c == anoter.c;
 	}
 };
+
 class dsu{
 	std::vector<size_t> index;
 public:
