@@ -5,7 +5,7 @@
 #include <vector>
 #include <numeric>
 
-const int32_t maxn = 2e4 + 5; 
+const int32_t maxn = 2e5 + 5; 
 int32_t n, m;
 
 class data
